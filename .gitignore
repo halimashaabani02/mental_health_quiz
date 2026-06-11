@@ -1,0 +1,8 @@
+# Postman configs
+.postman/
+postman/
+
+# Postman local files
+*.postman_collection
+*.postman_environment
+

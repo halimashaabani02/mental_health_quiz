@@ -15,7 +15,7 @@ There are two types of users:
 
 The Flutter application should primarily focus on the Normal User experience, but the architecture should be scalable enough to support admin features later.
 
-The backend API is already developed in PHP and MySQL.
+The backend API is already developed in PHP and MySQL. It is available locally through base url http://localhost/mental_health_quiz/api 
 
 All API endpoints and backend structure can be found in this GitHub repository:
 

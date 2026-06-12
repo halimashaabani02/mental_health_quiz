@@ -20,6 +20,7 @@ A PHP-based REST API for a mental health assessment quiz system. This applicatio
 
 ## 🚀 Setup Instructions
 
+BasURl of Locally is http://localhost/mental_health_quiz/api
 ### 1. Database Setup
 
 ```bash
